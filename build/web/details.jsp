@@ -38,7 +38,7 @@
                             </div>
                             <div class="col-md-12 text-center">
                                 
-                                <img src="${pageContext.request.contextPath}/public/assets/frontend/img/anya-geraldine-main-film.jpg" width="100%">
+                                <img src="./public/assets/img/anya-geraldine-main-film.jpg" width="100%">
                                 <p class="text-muted pt-2">Anya Geraldine q 💙</p>
                             </div>
                             <div class="col-md-12 text-justify mb-5">

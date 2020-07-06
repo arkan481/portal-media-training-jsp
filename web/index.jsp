@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="card-body text-center">
                                     <%-- Changing image url --%>
-                                    <img src="./public/assets/frontend/img/anya.jpg" width="180" height="150" class="img-responsive"/>
+                                    <img src="./public/assets/img/anya.jpg" width="180" height="150" class="img-responsive"/>
                                     <p class="pt-3">Mantan, adalah kata paling menyeramkan di dunia percintaan [...]</p>
                                     <%-- Changing routes --%>
                                     <a href="${pageContext.request.contextPath}/details" class="btn btn-sm btn-primary">Selengkapnya</a>
@@ -77,7 +77,7 @@
                                 </div>
                                 <div class="card-body text-center">
                                     <%-- Changing image url --%>
-                                    <img src="./public/assets/frontend/img/chelsea-islan.jpg" width="180" height="150" class="img-responsive"/>
+                                    <img src="./public/assets/img/chelsea-islan.jpg" width="180" height="150" class="img-responsive"/>
                                     <p class="pt-3">Mantan, adalah kata paling menyeramkan di dunia percintaan [...]</p>
                                     <%-- Changing routes --%>
                                     <a href="${pageContext.request.contextPath}/details" class="btn btn-sm btn-primary">Selengkapnya</a>
